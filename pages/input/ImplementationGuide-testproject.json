@@ -1,0 +1,13 @@
+{
+  "resourceType": "ImplementationGuide",
+  "id": "testproject",
+  "url": "https://github.com/smaira314/testproject-FHIR/ImplementationGuide-testproject",
+  "version": "0.1.0",
+  "name": "SMairaTestProject",
+  "status": "draft",
+  "packageId": "org.github.smaira314.testproject",
+  "fhirVersion": ["4.0.1"],
+  "definition": {
+    "resource": []
+  }
+}
